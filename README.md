@@ -5,6 +5,8 @@ Ressources, articles, subjects, themes that would help crafting better applicati
 
 # SOLID
 
+http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod  
+
 ##ruby
 http://rubyrogues.com/rr-60-solid-with-jim-weirich/  
 http://blog.groupbuddies.com/posts/16-dependency-injection  
