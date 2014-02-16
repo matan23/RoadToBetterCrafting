@@ -15,7 +15,7 @@ http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
 
 ####code
 https://github.com/jimweirich/presentation_solid_ruby
-http://selfless-singleton.rickwinfrey.com/2012/12/03/building-solid-foundations-of-oop/
+http://selfless-singleton.rickwinfrey.com/2012/12/03/building-solid-foundations-of-oop/  
 http://www.sitepoint.com/solid-ruby-dependency-inversion-principle/  
   
 # TDD
