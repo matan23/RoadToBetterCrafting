@@ -18,6 +18,9 @@ https://github.com/jimweirich/presentation_solid_ruby
 http://selfless-singleton.rickwinfrey.com/2012/12/03/building-solid-foundations-of-oop/
 http://www.sitepoint.com/solid-ruby-dependency-inversion-principle/  
   
-#TDD
+# TDD
 ##rspec
 http://www.neo.com/2013/12/20/custom-failure-messages-in-rspec-given
+
+# Design By Contract
+http://en.wikipedia.org/wiki/Design_by_contract
