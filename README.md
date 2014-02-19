@@ -4,9 +4,11 @@ RoadToBetterCrafting
 Ressources, articles, subjects, themes that would help crafting better applications
 
 # SOLID and OO Design
-
-design by contract
-tell don't ask
+  
+maintainability is about how the code is resilient to change
+is this code easy to change?  
+design by contract  
+tell don't ask  
 http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod  
 
 ##ruby
@@ -43,6 +45,7 @@ find the root cause of the bug not the symptom
 covers it with a unit tests  
   
 # after
+is this code easy to change? -> should be thought in design
 http://saikuro.rubyforge.org/  
 benchmarks
 check sql queries done underneath  
