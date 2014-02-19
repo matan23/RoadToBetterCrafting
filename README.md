@@ -48,6 +48,8 @@ covers it with a unit tests
 is this code easy to change? -> should be thought in design
 http://saikuro.rubyforge.org/  
 benchmarks
+https://github.com/MiniProfiler/rack-mini-profiler
+https://github.com/tmm1/rblineprof
 check sql queries done underneath  
   
 # notes  
