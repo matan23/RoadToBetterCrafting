@@ -37,6 +37,10 @@ http://en.wikipedia.org/wiki/Design_by_contract
 # Design Patterns / AntiPatterns / Refactoring
 http://sourcemaking.com/
   
+# Mistakes  
+fix it now
+find the root cause of the bug not the symptom  
+covers it with a unit tests  
   
 # after
 http://saikuro.rubyforge.org/  
