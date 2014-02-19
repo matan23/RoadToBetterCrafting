@@ -24,6 +24,10 @@ http://www.neo.com/2013/12/20/custom-failure-messages-in-rspec-given
 
 # Design By Contract
 http://en.wikipedia.org/wiki/Design_by_contract
-
+  
 # Design Patterns / AntiPatterns / Refactoring
 http://sourcemaking.com/
+
+
+# notes  
+Command/Query Separation 
