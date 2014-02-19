@@ -3,8 +3,10 @@ RoadToBetterCrafting
 
 Ressources, articles, subjects, themes that would help crafting better applications
 
-# SOLID
+# SOLID and OO Design
 
+design by contract
+tell don't ask
 http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod  
 
 ##ruby
