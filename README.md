@@ -36,7 +36,12 @@ http://en.wikipedia.org/wiki/Design_by_contract
   
 # Design Patterns / AntiPatterns / Refactoring
 http://sourcemaking.com/
-
-
+  
+  
+# after
+http://saikuro.rubyforge.org/  
+benchmarks
+check sql queries done underneath  
+  
 # notes  
 Command/Query Separation 
