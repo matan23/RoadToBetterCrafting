@@ -54,3 +54,7 @@ check sql queries done underneath
   
 # notes  
 Command/Query Separation 
+
+---
+# DevOps  
+http://www.cyberciti.biz/faq/what-process-has-open-linux-port/
