@@ -50,7 +50,7 @@ http://saikuro.rubyforge.org/
 benchmarks
 https://github.com/MiniProfiler/rack-mini-profiler
 https://github.com/tmm1/rblineprof
-check sql queries done underneath  
+check sql queries done underneath    
   
 # notes  
 Command/Query Separation 
@@ -58,3 +58,7 @@ Command/Query Separation
 ---
 # DevOps  
 http://www.cyberciti.biz/faq/what-process-has-open-linux-port/
+  
+#Databases
+##choose the right index
+https://tomafro.net/tags/using-indexes-in-rails
