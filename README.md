@@ -61,4 +61,5 @@ http://www.cyberciti.biz/faq/what-process-has-open-linux-port/
   
 #Databases
 ##choose the right index
-https://tomafro.net/tags/using-indexes-in-rails
+* https://tomafro.net/tags/using-indexes-in-rails
+* http://rny.io/rails/postgresql/2013/08/20/postgresql-indexing-in-rails.html
